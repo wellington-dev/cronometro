@@ -1,7 +1,7 @@
 # Projetinho com Cronômetro
 
 <h1>
-    <img src="public/animação.gif">
+    <img src="./public/animação.gif">
 </h1>
 
 ## Sobre
