@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">
-<a href="https://wellington-div.github.io/cronometro/"  style="text-decoration:none">Teste aqui</a>
+<a href="https://wellington-dev.github.io/cronometro/"  style="text-decoration:none">Teste aqui</a>
 </h1>
  
 ---
